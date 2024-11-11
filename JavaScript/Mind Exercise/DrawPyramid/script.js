@@ -1,7 +1,7 @@
     //   *
     //  ***
     // ***** => height = 3, có 3 rows (bắt đầu đếm là 0) => khoảng trống = height - (stt row + 1)
-
+    
 let height = 5;
 for (let row = 0; row < height; row++) {
     let spaces = height - (row + 1);
